@@ -7,4 +7,4 @@ Ce projet en construction se veut être une base pour la publication de livres s
 - [x] Ajouter les metadata
 - [x] Afficher le titre du livre
 - [ ] Créer une template Tex
-- [ ] Passer le build sur une pipeline Travis ou Github Actions
+- [x] Passer le build sur une pipeline Travis ou Github Actions
