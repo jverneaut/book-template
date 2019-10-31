@@ -1,5 +1,7 @@
 # Book Template
 
+![](https://github.com/jverneaut/book-template/workflows/.github/workflows/build.yml/badge.svg)
+
 Ce projet en construction se veut être une base pour la publication de livres sur le développement.
 
 ### Todo
