@@ -1,4 +1,5 @@
 #!/bin/sh -l
 
-pwd
+ls
+
 make all
