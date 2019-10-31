@@ -2,7 +2,7 @@ BOOK_TITLE = Exemple_de_livre
 
 SOURCE_FOLDER = src
 SOURCE_FILES = $(wildcard $(SOURCE_FOLDER)/**/*.md)
-METADATA_FILE = src/_metadata.yml
+METADATA_FILE = src/metadata.yml
 
 OUTPUT_FOLDER = output
 
