@@ -1,6 +1,8 @@
 FROM knsit/pandoc:v2.7.3
 
-RUN apk update && apk add make
+USER root
+
+RUN apk add --update make
 
 COPY entrypoint.sh /entrypoint.sh
 
