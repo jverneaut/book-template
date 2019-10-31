@@ -10,7 +10,7 @@ PANDOC_OPTIONS =\
 	--number-sections \
 	--table-of-contents
 
-pdf: chapters/**/*.md
+pdf: $(SOURCE_FOLDER)/**/*.md
 	mkdir -p $(OUTPUT_FOLDER)
 	pandoc \
 		-i $(SOURCE_FILES) \
